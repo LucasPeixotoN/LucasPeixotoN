@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Seu%20Nome&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,2,24&height=120&section=header&animation=twinkling" />
 </div>
 
-## Hi there 👋
+<h2 align="center">🌟 Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Eu sou o Lucas 💻🚀</h2>
 
 
 
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,3&height=100&section=footer&reversal=true" />
+</div>
