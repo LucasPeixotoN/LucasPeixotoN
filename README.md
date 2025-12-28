@@ -1,8 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0a0e27&height=200&section=header&text=Lucas%20Peixoto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</div>
+
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0a0e27&height=200&section=header&text=Kaique%20GM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
+
 
 
 <!--
