@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0a0e27&height=200&section=header&text=Kaique%20GM&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</div>
+
+
 <!--
 **LucasPeixotoN/LucasPeixotoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
