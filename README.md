@@ -53,6 +53,8 @@ para transformar ideias em experiências digitais intuitivas.
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peixotonlucas@gmail.com)
+ [![Linktree](https://img.shields.io/badge/Linktree-green?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/peixotonlucas)
+
   
 </div>
 
