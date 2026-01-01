@@ -10,25 +10,44 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+<h2>👨‍💻 Sobre mim</h2>
 
-- 🔭 Desenvolvedor apaixonado por tecnologia e inovação
-- 🌱 Sempre aprendendo e explorando novas ferramentas
-- 💡 Focado em criar soluções eficientes e escaláveis
-- 🎯 Buscando constantemente evoluir como profissional
-- ⚡ Fun fact: Café e código são a combinação perfeita!
+<p align="center">
+Sou um desenvolvedor apaixonado por criar interfaces modernas, responsivas e funcionais.
+Atualmente foco no desenvolvimento frontend, utilizando tecnologias como HTML, CSS e React
+para transformar ideias em experiências digitais intuitivas.
+</p>
 
-### 🛠️ Linguagens e Tecnologias:
+<h2 align="center">🛠️ Linguagens e Tecnologias</h2>
 
-- **Linguagens:** Python, JavaScript, Java, C/C++, SQL
-- **Frontend:** HTML5, CSS3, React, Vue.js
-- **Backend:** Node.js, Django, Flask, Spring Boot
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **Ferramentas:** Git, Docker, VS Code, Linux
+<h3 align="center">💻 Linguagens</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,sql&perline=6" />
+</div>
+
+<h3 align="center">🎨 Frontend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react&perline=6" />
+</div>
+
+<h3 align="center">⚙️ Backend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,spring&perline=6" />
+</div>
+
+<h3 align="center">🗄️ Banco de Dados</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+</div>
+
+<h3 align="center">🧰 Ferramentas</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=6" />
+</div>
 
 ---
 
-## 📫 Como me encontrar:
+<h2 align="center">📫 Como me encontrar:</h2>
 
 <div align="center">
   
@@ -38,5 +57,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,2,24&height=120&section=footer&reversal=true&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,2,24&height=120&section=footer&animation=twinkling" />
 </div>
