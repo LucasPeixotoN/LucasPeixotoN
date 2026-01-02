@@ -27,7 +27,7 @@
 
 <h3 align="center">🧰 Ferramentas</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,linux,vscode,androidstudio,mysql,angular,arduino,spring,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,linux,vscode,androidstudio,mysql,angular,arduino,spring,bootstrap,firebase&perline=6" />
 </div>
 
 ---
