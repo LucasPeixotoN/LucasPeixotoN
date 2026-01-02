@@ -25,21 +25,6 @@ para transformar ideias em experiências digitais intuitivas.
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,sql&perline=6" />
 </div>
 
-<h3 align="center">🎨 Frontend</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&perline=6" />
-</div>
-
-<h3 align="center">⚙️ Backend</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,spring&perline=6" />
-</div>
-
-<h3 align="center">🗄️ Banco de Dados</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
-</div>
-
 <h3 align="center">🧰 Ferramentas</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&perline=6" />
