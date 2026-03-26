@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,16,2,24&height=100&section=header&animation=twinkling" />
 </div>
 
-<h2 align="center">🌟 Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Eu sou o Lucas 💻🚀</h2>
+<h2 align="center">🌟 Seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Eu sou o Lucas <img src="https://tenor.com/pt-BR/view/pato-duck-dance-baile-heppy-gif-23096094.gif" width="50"/></h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400"/>
@@ -16,6 +16,7 @@
 🎓Graduado em Análise e Desenvolvimento de Sistemas pela Facens <br>
 💻Apaixonado por tecnologia e em constante evolução <br>
 🧠Fazendo cursos e estudando sempre!
+   
 </p>
 
 <h2 align="center">🛠️ Linguagens e Tecnologias</h2>
